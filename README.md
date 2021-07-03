@@ -1,2 +1,2 @@
-# ISS-Tracker-3-boiler-plate
+# STELLAR APP
 boilerplate code for c78
